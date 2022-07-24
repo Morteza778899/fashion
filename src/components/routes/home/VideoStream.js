@@ -1,5 +1,4 @@
 import Plyr from "plyr-react";
-import "plyr-react/plyr.css";
 import video from "../../../data/video/Car.mp4";
 import cover from "../../../data/image/banner-fashion-2-02.webp";
 import { Box } from "@mui/material";
